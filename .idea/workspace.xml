@@ -87,7 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "tawfiq",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/tawfiq/Overseer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -111,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1795240564603</updated>
-      <workItem from="1795240565888" duration="1403000" />
+      <workItem from="1795240565888" duration="1716000" />
     </task>
     <servers />
   </component>
